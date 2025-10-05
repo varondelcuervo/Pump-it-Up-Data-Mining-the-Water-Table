@@ -12,7 +12,6 @@ A través de un proceso completo de **preprocesamiento, modelado y evaluación**
 
 ### Tecnologías y Librerías Utilizadas
 
-* **Python 3.x**
 * **pandas**, **numpy** — Manipulación y análisis de datos
 * **scikit-learn** — Modelos de machine learning, pipelines, métricas y GridSearchCV
 * **matplotlib**, **seaborn** — Visualización de datos
