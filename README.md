@@ -58,13 +58,6 @@ A través de un proceso completo de **preprocesamiento, modelado y evaluación**
 ### Resultados Principales
 
 * Los modelos **Random Forest** y **Gradient Boosting** obtuvieron los mejores resultados en recall y F1-score.
-* Las variables más influyentes fueron:
-
-  * `gps_height`
-  * `population`
-  * `construction_year`
-  * `source_type`
-  * `region` y `district_code`
 
 ---
 
